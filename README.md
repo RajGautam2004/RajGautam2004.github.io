@@ -21,4 +21,4 @@ AI | NLP | LLMs | Full-Stack | Competitive Programming
 
 ### 📫 Contact
 - Email: rajgautam87100@gmail.com
-- LinkedIn: [link]
+- LinkedIn: https://www.linkedin.com/in/raj-gautam-b3128528a/
